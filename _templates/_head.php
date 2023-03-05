@@ -81,7 +81,6 @@
 	}
 
 	.card {		
-		/* box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 		width: 18rem;
   		border-style: none;
 		/* border: 0.8px solid whitesmoke; */
@@ -109,7 +108,6 @@
 	}
 
 	.card-body-back{
-		/* background-color: #ff4dff; */
 		color:black;
 		transform: rotateY(180deg);
 	}
